@@ -116,8 +116,8 @@ def sample_group(model, tokenizer, inputs, num_generations=4, do_sample=True, te
 if __name__ == "__main__":
     question = "<image>\nWhat fraction of the shapes are squares?\nChoices:\n(A) 5/10\n(B) 3/7\n(C) 3/9\n(D) 5/9"
     images = ['images/Processed-5cb29a4f-240d-4f1f-a063-b7fd922ee9e9-0.jpg']
-    model, tokenizer = md.time_it("load_model", md.load_model)
-    inputs = md.time_it("build_prompt", md.build_prompt, tokenizer, [(question, images), (question, images)])
-    ret = md.time_it("sample_group", md.sample_group, model, tokenizer, inputs, num_generations=10)
-    # outputs = md.time_it("predict", md.predict, model, tokenizer, inputs)
+    model, tokenizer = time_it("load_model", load_model)
+    inputs = time_it("build_prompt", build_prompt, tokenizer, [(question, images), (question, images)])
+    ret = time_it("sample_group", sample_group, model, tokenizer, inputs, num_generations=10)
+    # outputs = time_it("predict", predict, model, tokenizer, inputs)
         
