@@ -2,7 +2,7 @@
 I'm experimenting with a GRPO-based RL algorithm to incentivize Wolfram-based representation and reasoning of visual math concepts by the Qwen3-VL-2B-Instruct model. The PoC has been implemented with 4x Nvidia H200 GPUs, with potential to improve accuracy via horizontal scaling. 
 
 ## Thinking in Wolfram
-<img width="671" height="562" alt="image" src="https://github.com/user-attachments/assets/34a02b83-153e-4b51-a4e5-37ac42577018" />
+<img width="671" height="562" alt="image" src="https://github.com/user-attachments/assets/f7cc8a11-fbe5-41f5-824c-b52591bdff7e" />
 
 **Figure**: Thinking math concepts with Wolfram Language and Engine.
 
