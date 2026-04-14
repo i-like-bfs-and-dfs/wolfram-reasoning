@@ -32,10 +32,10 @@ output token lengths are averaged category-wise, with mean and std. dev. mention
 2. T. H. Trinh et al. "Solving olympiad geometry without human demonstrations." *Nature*, 2024.
 3. T. Hubert et al. "Olympiad-level formal mathematical reasoning with reinforcement learning." *Nature*, 2025.
 4. S. Bai et al. "Qwen3-VL Technical Report." 2025.
-5. T. Kojima et al. "Large Language Models are Zero-Shot Reasoners." *Advances in Neural Information Processing Systems*, 2022.
+5. T. Kojima et al. "Large Language Models are Zero-Shot Reasoners." *NeurIPS*, 2022.
 6. T. B. Brown et al. "Language Models are Few-Shot Learners." 2020.
-7. T. Schick et al. "Toolformer: Language Models Can Teach Themselves to Use Tools." *Thirty-seventh Conference on Neural Information Processing Systems*, 2023.
+7. T. Schick et al. "Toolformer: Language Models Can Teach Themselves to Use Tools." *NeurIPS*, 2023.
 8. D. Das et al. "MathSensei: Mathematical Reasoning with a Tool-Augmented Large Language Model." *ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models*, 2024.
-9. T. Dettmers et al. "QLoRA: Efficient Finetuning of Quantized LLMs." *Advances in Neural Information Processing Systems*, 2023.
-10. E. J. Hu et al. "LoRA: Low-Rank Adaptation of Large Language Models." *International Conference on Learning Representations*, 2022.
-11. H. Wang et al. "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning." *The Thirty-ninth Annual Conference on Neural Information Processing Systems*, 2025.
+9. T. Dettmers et al. "QLoRA: Efficient Finetuning of Quantized LLMs." *NeurIPS*, 2023.
+10. E. J. Hu et al. "LoRA: Low-Rank Adaptation of Large Language Models." *ICLR*, 2022.
+11. H. Wang et al. "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning." *NeurIPS*, 2025.
