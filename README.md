@@ -38,3 +38,4 @@ output token lengths are averaged category-wise, with mean and std. dev. mention
 8. D. Das et al. "MathSensei: Mathematical Reasoning with a Tool-Augmented Large Language Model." *ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models*, 2024.
 9. T. Dettmers et al. "QLoRA: Efficient Finetuning of Quantized LLMs." *Advances in Neural Information Processing Systems*, 2023.
 10. E. J. Hu et al. "LoRA: Low-Rank Adaptation of Large Language Models." *International Conference on Learning Representations*, 2022.
+11. H. Wang et al. "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning." *The Thirty-ninth Annual Conference on Neural Information Processing Systems*, 2025.
