@@ -14,7 +14,7 @@
 **Figure**: For each prompt, G = 10 output sequences from the model are explored, with advantages calculated amongst these outputs based on the reward model. LoRA (injected into each attention layer in the base model) is used for GRPO updates.
 
 ## Training script
-https://github.com/karthikpalaniappan7/wolfram-reasoning/blob/main/src/train.py
+https://github.com/i-like-bfs-and-dfs/wolfram-reasoning/blob/main/src/train.py
 
 ## Dataset
 A subset of [🤗 ViRL39K](https://huggingface.co/datasets/TIGER-Lab/ViRL39K) introduced in [VL-Rethinker](https://neurips.cc/virtual/2025/loc/san-diego/poster/119918) paper (see results).
