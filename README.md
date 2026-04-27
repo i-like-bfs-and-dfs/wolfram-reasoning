@@ -28,17 +28,3 @@ output token lengths are averaged category-wise, with mean and std. dev. mention
 
 * Although fraction of error-free code is high, further optimization is essential (increasing G, batch size, number of epochs, etc.) to increase accuracy. 
 * This project was also limited in compute with only 4x Nvidia H200 GPU nodes, further improvements in distributed training via tensor parallelism, context parallelism could help expand the RL search space.
-
-## References
-
-1. D. Guo et al. "DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning." *Nature*, 2025.
-2. T. H. Trinh et al. "Solving olympiad geometry without human demonstrations." *Nature*, 2024.
-3. T. Hubert et al. "Olympiad-level formal mathematical reasoning with reinforcement learning." *Nature*, 2025.
-4. S. Bai et al. "Qwen3-VL Technical Report." 2025.
-5. T. Kojima et al. "Large Language Models are Zero-Shot Reasoners." *NeurIPS*, 2022.
-6. T. B. Brown et al. "Language Models are Few-Shot Learners." 2020.
-7. T. Schick et al. "Toolformer: Language Models Can Teach Themselves to Use Tools." *NeurIPS*, 2023.
-8. D. Das et al. "MathSensei: Mathematical Reasoning with a Tool-Augmented Large Language Model." *ICLR 2024 Workshop on Mathematical and Empirical Understanding of Foundation Models*, 2024.
-9. T. Dettmers et al. "QLoRA: Efficient Finetuning of Quantized LLMs." *NeurIPS*, 2023.
-10. E. J. Hu et al. "LoRA: Low-Rank Adaptation of Large Language Models." *ICLR*, 2022.
-11. H. Wang et al. "VL-Rethinker: Incentivizing Self-Reflection of Vision-Language Models with Reinforcement Learning." *NeurIPS*, 2025.
