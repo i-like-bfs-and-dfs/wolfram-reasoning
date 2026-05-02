@@ -1,4 +1,5 @@
-# Incentivizing Wolfram-based thinking in VLMs via reinforcement learning
+# Incentivizing Wolfram-based thinking in VLMs via reinforcement learning | [![arXiv](https://img.shields.io/badge/arXiv-2604.22062-b31b1b.svg)](https://arxiv.org/pdf/2604.22062) 
+
 * I'm experimenting with methods to incentivize Wolfram-based representation and reasoning of visual math concepts in Qwen3-VL-2B-Instruct model via post-training paradigms including cold-start SFT, in-context learning, CoT reasoning, and GRPO-based RL exploration.
 * GPU optimizations with quantized-LoRA, FlashAttention, structured pruning yeilded improvements in training rate by 3x, inference runtime by 1.5x
 * The PoC results show a 3.33% improvement in accuracy while reducing reasoning tokens by 75% over Python-based reasoning.
